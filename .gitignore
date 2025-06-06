@@ -1,2 +1,7 @@
-# Dataset
+# Folders
 data/
+references/
+
+# Files
+dataset.ipynb
+pre-processing.ipynb
