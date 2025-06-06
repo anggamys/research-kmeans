@@ -1,7 +1,12 @@
 # Folders
 data/
 references/
+models/
 
 # Files
 dataset.ipynb
 pre-processing.ipynb
+implementation.ipynb
+
+# Models
+optimized_word2vec.model
